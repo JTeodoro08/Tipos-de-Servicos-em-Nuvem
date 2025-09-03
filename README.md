@@ -1,4 +1,5 @@
 ☁️ Tipos de Serviços em Nuvem — Resumo de Aprendizado
+
 Este repositório contém meu resumo pessoal sobre os tipos de serviços oferecidos na computação em nuvem, baseado nos estudos iniciais do curso de fundamentos de TI. Ainda estou aprendendo, mas esse conteúdo já me ajudou bastante a entender como a nuvem funciona e como ela é usada no dia a dia das empresas.
 🧱 IaaS — Infraestrutura como Serviço
 IaaS é como alugar uma estrutura de TI pela internet. O provedor oferece os recursos básicos (servidores, rede, armazenamento), e o cliente configura tudo conforme sua necessidade.
